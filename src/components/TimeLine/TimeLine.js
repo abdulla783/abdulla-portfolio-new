@@ -67,9 +67,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Experienced Full Stack Backend Developer with over 2 years of
+        Experienced Full Stack Backend Developer with over 3+ years of
         experience. Passionate about delivering high-quality web solutions with
-        a strong foundation in Node.js. Committed to writing clean code,
+        a strong foundation in Python. Committed to writing clean code,
         providing exceptional user experiences, and staying updated with
         industry trends for innovative solutions.
       </SectionText>
@@ -111,10 +111,10 @@ const Timeline = () => {
                         y2="0.500295"
                         gradientUnits="userSpaceOnUse"
                       >
-                        <stop stop-color="white" />
+                        <stop stopColor="white" />
                         <stop
                           offset="0.79478"
-                          stop-color="white"
+                          stopColor="white"
                           stopOpacity="0"
                         />
                       </linearGradient>

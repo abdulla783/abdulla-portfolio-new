@@ -1,218 +1,61 @@
 export const projects = [
   {
-    title: "The PartyCade",
+    title: "SaimBook",
     description:
-      "The Partycade offers unique games for many occasions. Such as Birthday Dinners, Baby Showers, Bridal Showers and many more. You’ll get to enjoy a friendly fun competition with your loved ones all from your smart device. Can’t make it to the event? No worries, you can join the game room wherever you are.",
+      "Saimbook is a social media app with similar to Facebbok. It includes all the features like post management like, comment, friend request and live chatting with online and offline feature.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2FpartycadeMain.png?alt=media&token=472f620d-3322-44da-97ac-5e3caa5d94a9",
-    // image: "/images/jp01.jpg",
-    tags: ["Node.js", "Prisma", "Flutter", "GraphQL", "Pubsub"],
+      "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/fc3150c739f4d861396451dda5f00666?response-content-disposition=inline;+filename=%22image_large%22;+filename*=utf-8%27%27image_large&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX//////////wEaCXVzLXdlc3QtMiJIMEYCIQC6tAOV%2BM9FMRlU7w6UNC4kAleNIfsqzxhb2q5jSHGV0wIhAMbB81KxjBVb52V/6zxS00L6b9eRHL1/SHKFyLSqpsW8Ks0ECC4QABoMNzM5OTM5MTczODE5IgyOGrYwYpxcgUJXP4QqqgQg6ehsrS5gtQYKphHnSxcmiwUOtoTaQ1Ccj9URiR0zNB8t/ERf2fg8WG6bXBXyNrgQ5hEYzNY1JtNP2NcDl5P/syBjzW/Qn/VWViT6uoKvBv5QTGYLDPF8noh09QyVWIWUaDwvHOaqwnTepEcZ5kQan10pY3xBxidS5LS4RH4WYerWbkMv9zjENq8X1blVKIwhIMZR59la9uOkCK7CIpyJJmZ8wArhaeVU%2BIjYElwaamgon1BvfqXnAhJF8aaOLvUpykzpR/Ly5Rd9YjtnsybbGgYPcW/mhE/RUoCAcXzweMvi6eyYh5LpZSh9R6wmSo%2BNzWD92ppj6hA7ar4voIxTKX8NVTMiYHyp34pxjk77315K0q4xOtLY/QWAQCmQmcpx/rC0YOHsNSdN6qG7F1CrwhWdP5KQ0CrrKXRIH/%2BCF5QymzktLLo26nlJQkpY4VH3NjmlmVnL8rNx5erXdaFSz816zqA4W0Cn6jC6L5Sfbh5teZeY0lPHSFn%2BS1NmsxqvKOcxUMZvPUNeRjzBWIQwzjCx7B/wOsbL6J/SIsQoEXG5rIQEqcnMkJMJh4TyE2wm2MStJSqRMzKPOfUgnmpBr3FMTfV3kA%2BE9CkoWUe34bXE0AEtx1hMBzFk7Z7X82OyoxBSenRLFCdrg53cq/2bNpuLN4yXAkSun5rtA0MKFzE4zAgWZKOQuha%2BerJa9so2BCgWbm%2Bsq6Jd7jd5Im%2BwjtJKGIuaMsxRqTDwzf%2BsBjqmATgnt5aIHwzZpAZCMK5pLRkZQn01jOB4fAtJt3vW1%2BVR3MZGo0rBPtnej58Fl5B%2B6ktmBe2gVbs794Y7NChSgHnJ4d5yAlJEdjBR0RXcnZFxbBXscbu2uavDdRtf/0W3FG%2Bu%2BrNDYJc9KAsBwZYMq7%2BiNN4R1XMzJVIoGzgXnRP4EcJ%2BpZp6vOrd6wGGgMf8nB3S/Ot6hCjuQ6uJ3cyxKKq3zRA2KyA=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240111T134706Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW5ZDIUCPCA/20240111/us-west-2/s3/aws4_request&X-Amz-Signature=e0322eebc62cb3f580b6bd5817a86937a0c4ddedb1389f6bba8f16e0c29c442c",
+    tags: ["Python", "Django", "DRF", "React", "WebSocket"],
 
     source:
-      "https://play.google.com/store/apps/details?id=com.thepartycade.partycade",
+      "https://github.com/abdulla783/social-media",
     visit: null,
     id: 22,
   },
   {
-    title: "Scribble",
+    title: "Trupinion",
     description:
-      "Scribble Library. Showcase your work on our exclusive Scribble Library for all to see! Once you submit your information, we will post your submitted book cover and information in the Scribble Library Directory to be available for all users to see, read, rate and review!",
+      "Trupinion is denoted as True - Opinion is a survey based web app where user can earn money and bounties by responding to survey or give a reting to any product or games.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fjp01.jpg?alt=media&token=b9076390-4516-4fd3-b55d-64811f0dce2c",
-    // image: "/images/jp01.jpg",
-    tags: ["Node.js", "Microservices", "Flutter", "Socket.io", "MongoDB"],
+      "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/659901f1b2acf97c8b351dd74c2fc930?response-content-disposition=inline;+filename=%22image_fixed_width%22;+filename*=utf-8%27%27image_fixed_width&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb//////////wEaCXVzLXdlc3QtMiJHMEUCIQDFwcCYLdmcdNYd6bwInSDIqlQe5/DuDP90Nr2hMVjSxQIgGkmWdkkC1z0TW7f6uLaA9p7WW4EfA67OS7h6pkSvV2MqzQQILhAAGgw3Mzk5MzkxNzM4MTkiDJMwOR4cLE1fNyByAyqqBI9Luo0wxcZstLms9tlgWEHk9uRklp2sU8E/4W8%2BVcZOLE0lZUqTAtZjAaM1QUzrTlueqxmNG%2Bran9qtvqJ5QCs9BR9NCH2OvqajPU6YOcRYOSDkqLgdMBEnIfC9g3zOe/QXJVgaQ9ZtlVBHEZ2rh5CpRiyFs6OXd1lSGULI6txEZwC3WTZqOwHtDDbxKqpTEQ/zP3ULPwQXh5vE5Cm3CiSRT6PZImXzadWL4rEHutHuSH51WaOGbUus6dCHE68GQ90FFG6iIXXtwrw%2BsJPOYElCLUrTXSaIkNaPkJrc5wkVo2UQVbdwH8R5grKOab/Fwe7lGuHAQYdWtViqRjU0KlL51CKOdUsa7SQz0xBmla6tG%2BoyB9yUbqU1yPg3TQyHXHAongH/k5nsDKjnazTadqa6yk94ixmrDNeu2VwU4bZdhXT5eIm2DPc9zJjBbDBdnH0AZABoN%2BHkC6mwCEboRtXeTdXCuB6fhgpf2nkCNSYehR7iWgrW%2BgWa8ulruH/7UOfcFj68G4Bv0AnNGs388QI1IknxOi%2BLSBfpXdSlEa/fueGjOWTYnLaECYX0zBW23T2cldIA8PkjGWfBjLkLqfvv1BLaQBqd3yR2O1jmqIgQcpDo/Sn5xr0AfmYJrKsbPPgqfNtiyijXCGjPNDeDSQCzkwPt99wvYxQspDX8wU7dBW2AzTSDIxAv7je%2BJPPs5OnIGBdc6SjmlEdUb9VwIpQ/WSd/X5orXc0FMI/V/6wGOqcBp4cPWSu20jyUCqHpF1okATrC9RraUpp/KubpAFOmeQGn2Beipcpbx92tBFI4Dv7j7vZlV2h53U6eI3g6qZmMfFA3a0aBw23Ds4G2t59zbwUK%2Bav4va5tlgs1Q03aMehBg6ECiGPAA0Py/vff7Y8%2BukwcIywL0UrJcf9AsQtLlOEq3qZDMwAaUQFNsNy01wH/REjeHZO3CazXfDMoRxoF4xg/reRRsfI=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240111T135451Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW545YXXK5C/20240111/us-west-2/s3/aws4_request&X-Amz-Signature=fc7654165db07de4dc8df2ba74a62bccd55799a5d6c297b38deae908ec624028",
+    tags: ["Python", "Django", "React", "Postgres", "MongoDB", "Celery"],
 
     source:
-      "https://play.google.com/store/apps/details?id=com.scribble.thesuitch",
+      "https://surveys-2021.netlify.app/",
     visit: null,
     id: 32,
   },
   {
-    title: "Scribble Dashboard",
+    title: "Kait CRM",
     description:
-      "Introducing the 'Scribble Dashboard,' a powerful CRM tool designed specifically for managing submitted book covers and information. With the Scribble Dashboard, users have complete control over the book submission process, ensuring seamless organization and efficient management.",
+      "Kait is a CRM based solutions and order management tool for B2B customers mainly used for customer relationship and Order management with social media channels like WhatsApp, Instagram, Messenger and Twitter.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%20001.png?alt=media&token=130ea4e6-d6fc-4381-b65a-9e9c6722b001",
-    // image: "/images/project 001.png",
-    tags: ["Next.js", "Microservices", "Node.js", "Socket.io", "MongoDB"],
+      "/images/kait.png",
+    tags: ["Python", "Django", "VueJs", "Postgres", "AWS", "Celery"],
 
-    source: "https://dashboard.thescribbleapp.com",
+    source: "https://yelo.kait.ai",
     visit: null,
     id: 35,
   },
-  {
-    title: "KC-Elite",
-    description:
-      "Elevate your basketball skills with the KC Elite Basketball Training Mobile App. Personalized workouts, expert coaching, progress tracking, and convenient scheduling all in one place. Reach new heights on the court. Unlock your full potential and take your basketball game to the next level.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fjp02.png?alt=media&token=b25fa786-1c19-4c58-9954-106b0a4737aa",
-    // image: "/images/jp02.png",
-    tags: ["Node.js", "Monolithic Arc", "Flutter", "MongoDB"],
-
-    source:
-      "https://play.google.com/store/apps/details?id=com.kcebasketball.kcelite",
-    visit: null,
-    id: 33,
-  },
-  {
-    title: "Health Titan Pro",
-    description:
-      "Introducing Health Titan Pro, the online COVID vaccination center where you can fill out a form and get vaccinated within minutes. All the results will be sent to your email. Experience the convenience and speed of Health Titan Pro for your vaccination needs.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fhtp001.png?alt=media&token=ef567442-01ec-474f-be8f-e4791379300e",
-    // image: "/images/htp001.png",
-    tags: ["React", "Node.js", "Dropbox", "MongoDB"],
-
-    source: "https://project-htp.web.app/",
-    visit: null,
-    id: 47,
-  },
-  {
-    title: "NFT Market-place (Dreamhub)",
-    description:
-      "Dreamhub is an Ethereum-based NFT market-place that allows creators to mint and sell their NFTs. Additionally, creators will be able to place their NFTs on the market for bidding and auction",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fssd01.png?alt=media&token=9a9ec35e-5c7f-4d40-bd40-bcbf6f2dd058",
-    // image: "/images/ssd01.png",
-    tags: ["React", "Node.js", "MetaMask", "Web3.js", "MongoDB"],
-    source: "https://dreamhub.art",
-    visit: null,
-    id: 40,
-  },
-  {
-    title: "Women-Tribe",
-    description:
-      "A thriving community that promotes inclusivity, education, empathy, and empowerment for women. To celebrate Pride Month, we have created our official Women Tribe Pride NFT! Establishing and funding a yearly scholarship program to help women in",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fssd02.png?alt=media&token=94475244-55be-410e-b642-75100d1bc1b3",
-    // image: "/images/ssd02.png",
-    tags: ["React", "CSS3", "Bootstrap"],
-
-    source: "https://womentribe.art/",
-    visit: null,
-    id: 41,
-  },
-  {
-    title: "Alamal Computers",
-    description:
-      "Welcome to Alamal Computer, the ultimate e-commerce platform dedicated to laptops, computers, and accessories. At Alamal Computer, we provide a seamless marketplace where both sellers and consumers can easily buy and sell items. Our platform supports secure transactions through PayPal.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%208.png?alt=media&token=de7e5f7a-f54b-403d-bec8-f2d36b630bf2",
-    // image: "/images/project 8.png",
-    tags: ["React", "Firebase", "Node.js", "Paypal", "MongoDB"],
-
-    source: "https://alamal-computer.onrender.com",
-    visit: "https://github.com/Tanv33/Alamal-Computers",
-    id: 1,
-  },
-  // {
-  //   title: "Mini-FB",
-  //   description:
-  //     "Introducing 'MiniFb', a feature-rich web application that revolutionizes social networking. With Minifb, users can effortlessly post updates in real-time, delete their posts at their convenience, and explore their personalized profiles for a truly immersive social experience.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%207.png?alt=media&token=f554457d-6ca6-4d9b-a72b-5f36891258a2",
-  //   // image: "/images/project 7.png",
-  //   tags: ["React", "Firebase", "Node.js", "Socket.io", "MongoDB"],
-
-  //   source: "https://minifb.onrender.com",
-  //   visit: "https://github.com/Tanv33/miniFB",
-  //   id: 1,
-  // },
-  // {
-  //   title: "Postman",
-  //   description:
-  //     "Introducing a simplified Postman clone, designed specifically for web developers to effortlessly test and validate their APIs. This user-friendly web application has been extensively modified for seamless usability and offers a straightforward interface.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%201.png?alt=media&token=528b7ed5-a396-4062-bb75-72a3ea998bad",
-  //   // image: "/images/project 1.png",
-  //   tags: ["HTML5", "CSS3", "JavaScript"],
-
-  //   source: "https://postman-tanveer.web.app",
-  //   visit: "https://github.com/Tanv33/postman",
-  //   id: 1,
-  // },
-  // {
-  //   title: "Text-Utils App",
-  //   description:
-  //     "Check out this unique app designed for real-time checking of spaces, words, and characters, among other features. Experience its special attributes, including dark mode and multiple color modes, which enhance your user experience.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%205.png?alt=media&token=851cdde4-0df6-44e3-b0d8-7bff5728313f",
-  //   // image: "/images/project 5.png",
-  //   tags: ["React", "Javascript", "Bootstrap"],
-  //   source: "https://tanv33.github.io/React-TextUtils-App",
-  //   visit: "https://github.com/Tanv33/React-TextUtils-App",
-  //   id: 4,
-  // },
-  // {
-  //   title: "Todo App",
-  //   description:
-  //     "Task management made easy with this popular mobile app. Remember and organize your daily activities effortlessly. Streamline your productivity and stay on top of your tasks.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%203.png?alt=media&token=37b7e931-edd1-4c66-bd8b-71dc7688e925",
-  //   // image: "/images/project 3.png",
-  //   tags: ["React", "Material-UI", "Firebase"],
-  //   source: "https://tanv33.github.io/React-Todo-App",
-  //   visit: "https://github.com/Tanv33/React-Todo-App",
-  //   id: 3,
-  // },
-  // {
-  //   title: "Weather App",
-  //   description:
-  //     "Discover the Weather app to search and view instant weather details for cities worldwide. Get insights into Nature, Temperature, Wind, Humidity, and Country information with a single click.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%204.png?alt=media&token=678f6f6d-5ec8-467b-a9ab-e0d27720d30f",
-  //   // image: "/images/project 4.png",
-  //   tags: ["React", "Javascript", "React-Bootstrap"],
-
-  //   source: "https://tanv33.github.io/weatherBootstrap",
-  //   visit: "https://github.com/Tanv33/weatherBootstrap",
-  //   id: 2,
-  // },
-  // {
-  //   title: "Quiz Web-app",
-  //   description:
-  //     "A unique Quiz web app with special functionalities where users can view real-time answers and calculate their results instantly.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%206.png?alt=media&token=a6e8a781-d090-4a70-81e9-8623692c3956",
-  //   // image: "/images/project 6.png",
-  //   tags: ["React", , "Javascript", "Bootstrap"],
-  //   source: "https://tanv33.github.io/Asinlab-Interview-Test",
-  //   visit: "https://github.com/Tanv33/Asinlab-Interview-Test",
-  //   id: 6,
-  // },
-  // {
-  //   title: "React Router App",
-  //   description:
-  //     "Check out my simple React Router app with attractive and visually appealing route definitions.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/bucket-a2d0b.appspot.com/o/postImages%2Fproject%202.png?alt=media&token=c4c5c4c6-6ae0-4fdc-bf56-0ef42eee035e",
-  //   // image: "/images/project 2.png",
-  //   tags: ["React", , "Javascript", "Material-UI"],
-  //   source: "https://numberless-glove.surge.sh",
-  //   visit: "https://github.com/Tanv33/React-Router",
-  //   id: 0,
-  // },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Passed my Matriculation in Computer Science" },
-  { year: 2019, text: "Passed my Intermediate in Pre-Engineering" },
-  { year: 2020, text: "Enrolled in High school for a BS in Computer Science" },
-  {
-    year: 2021,
-    text: "Started as a freelance and onsite developer, embarking on my industry journey",
-  },
+  { year: 2024, text: "Upgraded skils towards full-stack and in learning with ML"},
+  { year: 2022, text: "Started working on Upwork for freelance" },
+  { year: 2020, text: "Grab a full time job and then finish Graduation" },
+  { year: 2018, text: "Started learning about tech and project creation" },
+  { year: 2017, text: "Started journey in Computer Science as under grad" },
 ];
 
-export const FiverUrl = "https://www.fiverr.com/tanv33r_khan";
+export const FiverUrl = "#";
 export const UpworkUrl =
-  "https://www.upwork.com/freelancers/~0128ca58b87e6d95b6";
-export const ResumeUrl = "https://www.cakeresume.com/tanveer-khan-21f68d";
-export const GithubUrl = "https://github.com/Tanv33";
+  "https://www.upwork.com/freelancers/~01b9ae508f8bb617e3";
+export const ResumeUrl = "#";
+export const GithubUrl = "https://github.com/abdulla783";
 export const LinkedInUrl =
-  "https://www.linkedin.com/in/tanveer-khan-b4a3b621b/";
+  "https://www.linkedin.com/in/abdullaansari/";
 export const FacebookUrl =
-  "https://www.facebook.com/profile.php?id=100007686159316";
-export const MobileNumber = "0334-2177092";
-export const BusinessEmail = "typecodewithme@gmail.com";
-export const PersonalEmail = "tanveer.khan2692000@gmail.com";
+  "https://www.facebook.com/saim783";
+export const MobileNumber = "08317081491";
+export const BusinessEmail = "ansariabdulla98@gmail.com";
+export const PersonalEmail = "ansariabdulla90@gmail.com";

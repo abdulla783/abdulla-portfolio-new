@@ -25,11 +25,11 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Hello! <br />
-          I'm Tanveer Khan
+          I'm Abdulla Ansari
         </SectionTitle>
         <SectionText>
           A Full Stack Backend Developer specializing in scalable server-side
-          applications with Node.js. Proficient in Next.js and React.js for
+          applications with Python / Django and Node Js. Proficient in Next.js and React.js for
           seamless web development.
         </SectionText>
         <div style={{ display: "flex", flexWrap: "wrap", gap: "10px" ,margin: "0 0 80px" }}>

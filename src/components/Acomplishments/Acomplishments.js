@@ -9,10 +9,10 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 import axios from "axios";
 
 const defaultData = [
-  { number: 20, text: "Open Source Projects" },
-  { number: 100, text: "Students" },
-  { number: 45, text: "Github Followers" },
-  { number: 46, text: "Github Stars" },
+  { number: 6, text: "Real World Business Project" },
+  { number: 10, text: "Trained new interns" },
+  { number: 30, text: "Github Open Source Project" },
+  { number: 2, text: "Github Stars" },
 ];
 
 const Acomplishments = () => {
